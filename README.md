@@ -10,7 +10,7 @@ I build data and ML systems for energy markets and invest in early-stage startup
 
 | Find me | Languages |
 |:---:|:---:|
-| [![Website](https://img.shields.io/badge/WEBSITE-tanishamattapalli.com-111827?style=for-the-badge)](https://tanishamattapalli.com)<br>[![LinkedIn](https://img.shields.io/badge/LINKEDIN-tanisha--mattapalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-mattapalli) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha-latha&layout=compact&hide_border=true&title_color=c084fc&text_color=7dd3c0&bg_color=051a2b&card_width=320)](https://github.com/tanisha-latha) |
+| [![Website](https://img.shields.io/badge/WEBSITE-tanishamattapalli.com-111827?style=for-the-badge)](https://tanishamattapalli.com)<br>[![LinkedIn](https://img.shields.io/badge/LINKEDIN-tanisha--mattapalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-mattapalli) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha-latha&layout=compact&hide_border=true&title_color=c084fc&text_color=7dd3c0&bg_color=051a2b&card_width=320&v=2)](https://github.com/tanisha-latha) |
 
 ---
 
